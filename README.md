@@ -1,2 +1,2 @@
 # ImageBeagle
-Github for ImageBeagle dataset and search algorithm.
+Github for ImageBeagle dataset and search algorithm. 
